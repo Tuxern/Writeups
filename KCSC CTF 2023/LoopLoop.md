@@ -30,9 +30,9 @@ decoded_string = base64.b64decode(encoded_string).decode()
 print(decoded_string)
 ```
 
-After running the script, I found that the string was indeed encoded in Base64. However, the decoded string still looked like jibberish.
+After running the script the decoded string still looked like jibberish.
 
-I then decided to repeat the process of decoding from Base64 several times using a while loop, and also check if the decoded string starts with kcsc before each iteration, and if it does, the loop will stop and print the final decoded string which is the flag. Here is the script:
+Because of the name of the challange "LoopLoop" I decided to repeat the process of decoding from Base64 several times using a while loop, and also check if the decoded string starts with kcsc before each iteration, and if it does, the loop will stop and print the final decoded string which is the flag. Here is the script:
 
 ```python
 import base64
@@ -49,7 +49,7 @@ while not encoded_string.startswith("kcsc"):
 print(encoded_string)
 ```
 
-By running this script, I was able to successfully decode the jibberish and find the flag: kcsc{b4se64_l00ps_ftw!}
+By running this script, I was able to successfully decode the jibberish and find the flag: **`kcsc{b4se64_l00ps_ftw!}`** 
 
 ##Conclusion
 
