@@ -12,6 +12,8 @@ The challenge is to find the flag that is hidden on the social media platforms o
 
 ## Solution
 
+![Linked1](Linked1.png)
+
 To solve this challenge, I first visited the provided GitHub account, which linked to a Twitter account with the handle "kakaduesec" the name on the twitter profile was Petter Mikkelsen. From the hint that the person "liked to talk a lot about work", I suspected that they might have a LinkedIn account.
 
 I searched for the person on LinkedIn using the name found on Twitter, but found over 190 results. To narrow down the search, I added "KCSC" to the search query, which led me to a LinkedIn profile of a person who works as "CTF Dummy at KCSC". By going into this profile, I was able to see that his education was the flag: **`KCSC{y0u_f0und_m3_mr_d3t3ct1v3}`** 
