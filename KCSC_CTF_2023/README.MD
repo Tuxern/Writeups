@@ -1,6 +1,6 @@
 # USN CTF Competition - 15.01.23
 
-On 15.01.23, the Kongsberg Cyber Security Center (KCSC) at USN Campus Vestfold hosted a Capture The Flag (CTF) competition. The competition included a variety of challenges across different categories such as Misc, pwn, Web, Reversing, Forensics, Crypto and OSINT. I participated in the team Navier, and we were able to capture first place in the competition.
+On 15.01.23, Kongsberg Cyber Security Center (KCSC) hosted a Capture The Flag (CTF) competition at University of South-Eastern Norway (USN) Campus Vestfold. The competition included a variety of challenges across different categories such as Misc, pwn, Web, Reversing, Forensics, Crypto and OSINT. I participated in the team Navier, and we were able to capture first place in the competition.
 
 The competition was designed to test our skills in various areas of cybersecurity. We had to use our knowledge of different tools and techniques to solve the challenges. The competition required skills in areas such as:
 - Misc: Problem-solving and lateral thinking

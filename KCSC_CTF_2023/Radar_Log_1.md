@@ -22,7 +22,7 @@ Once the data was filtered, I looked for the aircraft's callsign (KCSC001) in th
 
 ![Wire2](Pictures/wire2.png)
 
-By following these steps, I was able to successfully find the aircraft's hexadecimal address and complete the challenge.  KCSC{0xc0ffee}
+By following these steps, I was able to successfully find the aircraft's hexadecimal address and complete the challenge.  **`KCSC{0xc0ffee}`**
 
 ## Conclusion
 

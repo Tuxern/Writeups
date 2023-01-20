@@ -12,7 +12,7 @@ The challenge is to identify an unmarked KONGSBERG ship that left Porsgrunn Term
 
 ## Solution
 
-To solve this challenge, I used an online database of ships to search for ships that recently sailed from the port of Porsgrunn. By filtering the search results by the date specified in the challenge, I was able to find the ship Yara Birkeland. It fits the timestamp and it's IMO number is the flag: **`KCSC{9449944}'`**
+To solve this challenge, I used an online database of ships to search for ships that recently sailed from the port of Porsgrunn. By filtering the search results by the date specified in the challenge, I was able to find the ship Yara Birkeland. It fits the timestamp and it's IMO number is the flag: **`KCSC{9449944}`**
 
 ## Conclusion
 
