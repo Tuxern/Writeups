@@ -16,11 +16,13 @@ To solve this challenge, I used Wireshark to analyze the radar data. One of the 
 
 Knowing this the first step was to filter the data by the protocol Asterix, as this protocol is commonly used in radar data.
 
+![Wire1](Pictures/wire1.png)
+
 Once the data was filtered, I looked for the aircraft's callsign (KCSC001) in the packet details. I found that the hexadecimal address of the aircraft was included in the packet data. 
 
-BRUH I then used the "hex view" feature in Wireshark to locate the hex address. The hex address was wrapped in the KCSC{}-tag, e.g. KCSC{0xdeadbeef} BRUH
+![Wire2](Pictures/wire2.png)
 
-By following these steps, I was able to successfully find the aircraft's hexadecimal address and complete the challenge. The flag was :blblblab:
+By following these steps, I was able to successfully find the aircraft's hexadecimal address and complete the challenge.  KCSC{0xc0ffee}
 
 ## Conclusion
 

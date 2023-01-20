@@ -15,6 +15,18 @@ The challenge is to refer to the same pcap-file as in Radar Log 1 and determine 
 
 To solve this challenge, I first used Wireshark to analyze the pcap-file from Radar Log 1, again the Asterix protocol was used. I then looked for the GPS position from the first and last package sent by the aircraft.
 
+![Wire3](Pictures/wire3.png)
+
+This yielded the following coordinates:
+```
+130, Position in WGS-84 Co-ordinates
+    LAT, Latitude, [°]: 59.6538734436035
+    LON, Longitude, [°]: 9.63970899581909
+130, Position in WGS-84 Co-ordinates
+    LAT, Latitude, [°]: 59.6538734436035
+    LON, Longitude, [°]: 9.65509414672852
+```
+
 I took these coordinates and plugged them into Google Maps. By drawing a line between the two coordinates, I was able to see that the aircraft passed over Kongsberg Teknologipark.
 
 This was indeed the flag: **`KCSC{Kongsberg_Teknologipark}`** 
