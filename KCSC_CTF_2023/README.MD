@@ -15,4 +15,4 @@ Our team was able to successfully solve almost all of the challenges  and come o
 
 We would like to thank the organizers of the event, specifically KCSC, for hosting such a challenging and fun competition. We look forward to participating in future CTF events and continuing to improve our skills across different categories of cybersecurity.
 
-![kcsc](KCSC_CTF_2023/Pictures/kcsc.png)
+![kcsc](Pictures/kcsc.png)
